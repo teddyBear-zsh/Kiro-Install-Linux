@@ -16,7 +16,7 @@ https://kiro.dev/downloads/
 ## 📦 1. Extract the archive
 
 ``` bash
-tar -xvf kiro.tar.gz
+tar -xzvf kiro.tar.gz
 cd Kiro
 ```
 
