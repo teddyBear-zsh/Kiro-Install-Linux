@@ -42,7 +42,7 @@ https://kiro.dev/icon.svg?fe599162bb293ea0
 Save it as:
 
 ``` bash
-/your_route/Kiro/icon.svg
+~/your_path/Kiro/icon.svg
 ```
 
 ------------------------------------------------------------------------
