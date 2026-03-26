@@ -151,3 +151,6 @@ sudo pacman -Syu libx11 libxkbcommon gtk3 nss alsa-lib
 -   ✅ CLI support (`kiro .`)\
 -   ✅ Terminal-free execution\
 -   ✅ IDE-like behavior
+
+![Kiro from CLI](./assets/kiro_cli.gif)
+![Kiro from Desktop file](./assets/desktop.png)
